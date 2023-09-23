@@ -19,5 +19,11 @@ document.addEventListener('DOMContentLoaded', function () {
     let collapsible = document.querySelectorAll('.collapsible');
     M.Collapsible.init(collapsible);
 
+    // modal deletion
+
+    let modal = document.querySelectorAll('.modal');
+    M.Modal.init(modal);
+    
+
 }); 
 

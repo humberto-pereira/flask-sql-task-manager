@@ -7,3 +7,10 @@ body {
 main {
     flex: 1 0 auto;
 }
+
+
+.logo {
+    width: 300px;
+    padding-left: 20px;
+}
+
